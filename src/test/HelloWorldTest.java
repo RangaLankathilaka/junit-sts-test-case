@@ -78,6 +78,10 @@ class HelloWorldTest {
 	    assertFalse( helloworld.nameList.isEmpty(),"should have two elements");
 	}
 	
+	/*
+	 * this test method use to check array is empty when use remove() method
+	 */
+	
 	@Test
 	public void testIsEmpty2() {
 	    
